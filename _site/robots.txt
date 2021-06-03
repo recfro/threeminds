@@ -1,1 +1,1 @@
-Sitemap: https://recfro.github.io/threeminds/sitemap.xml
+Sitemap: https://recfro.github.io/sitemap.xml
