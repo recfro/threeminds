@@ -3,7 +3,7 @@ layout: post
 title: FLORA
 date: 2021-01-25
 description: Installation, dimension variable; 2018; video projection, physical TVs, interactive analog controller, decoration. # Add post description (optional)
-img: figs_Flora01.jpg # Add image post (optional)
+img: figs_flora01.jpg # Add image post (optional)
 tags: [projection, interactive] # add tag
 ---
 <p align="center">

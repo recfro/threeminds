@@ -5,22 +5,19 @@ date: 2012-04-02
 description: VR interactive work, dimension variable; 2021. #(optional)
 img: figs_SoundOff01.jpg #(optional)
 ---
-updated.
+<p align="center">
+VR interactive work, dimension variable; 2021.<br><br>
+"You would never hear any song played twice in the same way."<br>
+- Jiddu Krishnamurti<br><br>
+<img src="{{site.baseurl}}/assets/img/figs_SoundOff01.gif">
+</p>
 
-![figs_SoundOff01.gif]({{site.baseurl}}/assets/img/figs_SoundOff01.gif)
+Complex datasets like sound collections and musical performances are difficult to experience intuitively. Machine Learning provides a way to computationally cluster large audio collections, but context-dependent forms of interaction are required to allow audiences to grasp the dimensions of the complexity. We applied the t-SNE algorithm to collections of subway street music in New York, as well as to a live performance of Gershwin's Rhapsody in Blue, to explore the way interactions in immersive space can be used to explore complex and large audio collections. We found that 2D and 3D interactions, as well as headspace vs. controller interactions can differentially affect the experience of different sound spaces by prototyping these interactions in VR using data processed through t-SNE. This provides a method for experiencing the sounds of a city or environment via intuitive navigation, and nonlinear exploration of a work of music using joystick manipulations in VR.
 
-works.
+For more info, see the paper submitted to Audiomostly Sound Interaction Conference, "SOUND OF(F): Exploring contextual representations of sound and music data sets using machine learning": [Erol, Ozgunay & LC (2021)][pub].
 
-snippets:
+[pub]: https://raylc.org/chairbots/Sound%20Of(f)%20AM21_02.pdf
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/figs_SoundOff02.jpg">
+</p>
