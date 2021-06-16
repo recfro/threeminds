@@ -8,8 +8,9 @@ tags: [machine-learning, video] # add tag
 ---
 <p align="center">
 Video, dimension variable; 2021; physical TVs.<br><br>
-""<br>
-- <br><br>
+"The limits of my language means the limits of my world."<br>
+- Tractatus Logico-Philosophicus<br>
+by Ludwig Wittgenstein<br><br>
 <img src="{{site.baseurl}}/assets/img/figs_CatchRelease01.gif">
 </p>
 
