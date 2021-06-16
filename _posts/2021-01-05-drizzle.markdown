@@ -5,22 +5,19 @@ date: 2021-01-05
 description: Manga, 2 pieces (newspaper, A4 size, 12 pages; print, dimension variable); 2021. # Add post description (optional)
 img: figs_Drizzle01.jpg # Add image post (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<p align="center">
+Manga, 2 pieces (newspaper, A4 size, 12 pages; print, dimension variable); 2021.<br><br>
+"Sometimes my brain reminds me of everything awful humans do."<br>
+- GPT-2 finetuned to twitter feeds<br><br>
+<img src="{{site.baseurl}}/assets/img/figs_Drizzle01.gif">
+</p>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Misinformation and rhetoric in current public discourse make climate change denial a difficult viewpoint to argue against by policy and scientific arguments alone. The public is more persuaded by personal stories of influence rather than sound logic. Instead of traditional arguments, we created covert visual narratives that communicate the values espoused by climate action without framing it as an argument for climate action. Such implicit influences are designed for particular goals of climate action, such as individual responsibility, long-term vision, and collective conservation strategies, utilizing design fiction to narratively engage even antagonistic viewpoints like climate change denial. The comic tabloid Drizzle seeks to engage audiences visually with personal virtues that align with climate action without policy-based, overt arguments.
 
-Jekyll also offers powerful support for code snippets:
+For more info, see our paper "Designing for Narrative Influence: Speculative Storytelling for Social Good in Times of Public Health and Climate Crises" published in CHI'21: [LC, Mizuno (2021)][pub].
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[pub]: https://dl.acm.org/doi/10.1145/3411763.3450373
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/figs_Drizzle02.jpg">
+</p>

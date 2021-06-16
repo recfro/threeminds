@@ -1,3 +1,9 @@
+/* RAY LC area */
+@font-face {
+	font-family: 'Quicksand';
+	src: url('Quicksand.otf') format('woff2');
+}
+
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -231,7 +237,8 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif;
+  /*font-family: sans-serif;*/
+  font-family: monospace;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -774,8 +781,10 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
-  color: #515151;
+  /*color: #515151;*/
+  color: #888;
   background-color: #fbfbfb;
+  /*background-color: #000;*/
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -889,7 +898,8 @@ table tfoot td {
 }
 
 .post, .article-page {
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: #000;
 }
 
 ::-moz-selection {
@@ -933,7 +943,8 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
+  background-color: #fbfbfb;
 }
 
 .about {
@@ -969,7 +980,8 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
+  /*font-family: 'PT Serif', serif;*/
+  font-family: 'Quicksand', sans-serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -1162,9 +1174,11 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  /*font-family: 'PT Serif', serif;*/
+  font-family: 'Quicksand', sans-serif;
   text-decoration: none;
-  color: #263959;
+  /*color: #263959;*/
+  color: #fff
 }
 
 .post .post-content p {

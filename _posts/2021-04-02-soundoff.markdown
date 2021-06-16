@@ -1,0 +1,26 @@
+---
+layout: post
+title: SOUND OF(F)
+date: 2012-04-02
+description: VR interactive work, dimension variable; 2021. #(optional)
+img: figs_SoundOff01.jpg #(optional)
+---
+updated.
+
+![figs_SoundOff01.gif]({{site.baseurl}}/assets/img/figs_SoundOff01.gif)
+
+works.
+
+snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home

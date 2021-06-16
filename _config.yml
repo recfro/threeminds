@@ -1,22 +1,23 @@
-title: I Was of Three Minds.
+title: I WAS OF THREE MINDS.
 permalink: ':title/'
 
 #for local development
-#baseurl: ""
+baseurl: ""
 #for upload to github
-baseurl: "/threeminds" # the subpath of your site, e.g. /blog
+#baseurl: "/threeminds" # the subpath of your site, e.g. /blog
 url: "https://recfro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: I Was of Three Minds # add your name
-author-img: figs_threeminds04.jpg # add your photo
+author: I WAS OF THREE MINDS # add your name
+author-img: figs_threeminds09extended03.jpg # add your photo
 about-author: A machine learning exhibition by Studio for Narrative Spaces.
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+studio: RAY LC
+social-insta: studiofornarrativespaces # add your handle
+social-facebook: rayLCphoto # add your Facebook handle
+social-github: recfro # add your Github handle
+social-twitter: recfreq # add your Twitter handle
+#social-email: # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
