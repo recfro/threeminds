@@ -2,9 +2,9 @@ title: I WAS OF THREE MINDS.
 permalink: ':title/'
 
 #for local development
-baseurl: ""
+#baseurl: ""
 #for upload to github
-#baseurl: "/threeminds" # the subpath of your site, e.g. /blog
+baseurl: "/threeminds" # the subpath of your site, e.g. /blog
 url: "https://recfro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
