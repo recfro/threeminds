@@ -4,6 +4,7 @@ title: "DRIZZLE"
 date: 2021-01-05
 description: Manga, 2 pieces (newspaper, A4 size, 12 pages; print, dimension variable); 2021. # Add post description (optional)
 img: figs_Drizzle01.jpg # Add image post (optional)
+tags: [literature, machine-learning] # add tag
 ---
 <p align="center">
 Manga, 2 pieces (newspaper, A4 size, 12 pages; print, dimension variable); 2021.<br><br>

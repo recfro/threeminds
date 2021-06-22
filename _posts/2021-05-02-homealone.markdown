@@ -5,7 +5,7 @@ date: 2021-05-02
 description: Projection, mapped to wooden frame 1.5x1.5m; 2021. # Add post description (optional)
 img: figs_HomeAlone01.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [machine-learning, video] # add tag
+tags: [machine-learning, video, projection] # add tag
 ---
 <p align="center">
 Projection, mapped to wooden frame 1.5x1.5m; 2021.<br><br>

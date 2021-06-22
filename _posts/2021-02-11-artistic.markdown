@@ -5,7 +5,7 @@ date: 2021-02-11
 description: Sculpture; plaster, silicone, LED controller; 35x25x25cm; 2018. # Add post description (optional)
 img: figs_Artistic01.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [machine-learning, literature]
+tags: [interactive, sculpture]
 ---
 <p align="center">
 Sculpture; plaster, silicone, LED controller; 35x25x25cm; 2018.<br><br>
