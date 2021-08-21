@@ -12,7 +12,7 @@ Projection, mapped to wooden frame 1.5x1.5m; 2021.<br><br>
 "We are alone, with no excuses. That's the idea I shall try to convey when<br>
 I say that [we are] condemned to be free."<br>
 - Jean-Paul Sartre<br><br>
-<img src="{{site.baseurl}}/assets/img/figs_HomeAlone01.gif">
+<iframe src="https://www.youtube.com/watch?v=O27S71gmMeM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 For communities of folks of Hong Kong, home serves as a different space full of their individual stories. It can be a luxurious interior for social connection, or a crammed space for a quarantine, or a work place for both caretakers and work-from-homers. The diverse spectra of lives in Hong Kong can be experienced as their narratives in the place they spend the most time of their lives in, their homes. Home Alone is a narrative landscape of the interior spaces of Hong Kong, from crammed spaces of domestic workers to high rise mansions of urban yuppies. It evolves from the serene bedroom scene to the stuffy bathroom to the window-filled high rise to the compact guestroom for its domestic worker populace to eventually the abandoned houses of Yim Tin Tsai, where we find ourselves finally left alone only with their previous narratives in the form of broken bottles, ragged dolls, and ancestral photos. Finally, we are home alone in Hong Kong.
@@ -22,5 +22,6 @@ Home Alone is a StyleGANS machine-learning-based traversal of latent spaces of t
 [show]: ..
 
 <p align="center">
+<img src="{{site.baseurl}}/assets/img/figs_HomeAlone01.gif">
 <img src="{{site.baseurl}}/assets/img/figs_HomeAlone02.jpg">
 </p>
