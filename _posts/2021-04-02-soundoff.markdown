@@ -27,6 +27,6 @@ For more info, see the paper submitted to Audiomostly Sound Interaction Conferen
 In dreams, one's life experiences are jumbled together, so that characters can represent multiple people in your life and sounds can run together without sequential order. To show one's memories in a dream in a more contextual way, we represent environments and sounds using machine learning approaches that take into account the totality of a complex dataset. The immersive environment uses machine learning to computationally cluster sounds in thematic scenes to allow audiences to grasp the dimensions of the complexity in a dream-like scenario. We applied the t-SNE algorithm to collections of music and voice sequences to explore the way interactions in immersive space can be used to convert temporal sound data into spatial interactions. Applying it to a Virtual Reality (VR) artwork about replaying memories in a dream, we found that audiences can enrich their experience of the story without necessarily gaining an understanding of the artwork through the machine-learning generated soundscapes. This provides a method for experiencing the temporal sound sequences in an environment spatially using nonlinear exploration in VR.
 
 <p align="center">
-<img src="{{site.baseurl}}/assets/img/figs_SoundOff04.jpg">
+<img src="{{site.baseurl}}/assets/img/figs_SoundOff04.png">
 <img src="{{site.baseurl}}/assets/img/figs_SoundOff05.jpg">
 </p>
