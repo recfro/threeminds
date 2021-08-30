@@ -47,5 +47,5 @@ In terms of the context, the train is running on a moving ocean. The interior de
 This work is run on Oculus Quest 2 on a loop. The headset should be powered when not in use, through a cable that runs through a hole in the plinth. The controllers are hung on rails drilled into the plinth when not in use. The staff instructs the viewer to put on the headset and simply give them the controllers. The only controls possible are moving around in the space using the joystick and pointing at the sound spheres in the environment. All other buttons have been disabled. To start the first time, the staff runs the program inside "Unknown Sources," which has been uploaded to the headset ahead of time. The location of the plinth and power cable is up to the curator, but is preferred to be close to the electrical outlet. The audience may experience the work either standing or sitting. In our experience the motion sickness of this work is minimal due to the lack of jarring movements, so they may enjoy it while standing. Optionally, corded headphones can be connected to the Oculus device if the noise in the environment is too loud. If the headset speakers are turned to maximum, usually headphones are not needed. 
 
 <p align="center">
-<img src="{{site.baseurl}}/assets/img/figs_SoundOff03.jpg">
+<img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-44.jpg">
 </p>
