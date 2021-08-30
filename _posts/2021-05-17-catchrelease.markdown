@@ -23,13 +23,13 @@ Catch and Release uses the Yolo algorithm to computationally detect human moveme
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/figs_CatchRelease01.gif">
-<img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-12.jpg">
+<img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-30.jpg">
 </p>
 
 The way machines see us vs the way we see are selves are flip sides of the same coin. Take a movement-based experience like dance (choreographed by the artist and performed in New York and Tokyo venues), machines see merely patterns and movement, often detecting people where there is none, or seeing inconsequential objects that don't contribute to our conscious experience. For example, it can see a photographer in the stands who stood up a couple of times, or an usher who arrives just at the end, or two dancers "fused" into one by the algorithm, or a distant face walking up the parking lot in the outdoor venue, etc, whereas humans have the attention to filter them out from their consciousness because they don't contribute to the dance itself. These quirks abound in the piece itself, where each of the four performances take place in different spaces, with different musical rhythms and contexts. Just by looking at the machine interpretation of the video itself, we can see patterns of activity that, if well immersed in the medium, gives us a sense of what the machine really perceives: probabilities of an object being a person, and the instantaneous prediction of her presence. The four videos conver a spectrum, including jazz swing, Cuban Rueda, a Bollywood-west coast swing medly, and salsa. When we hear the music, we begin to put the machine side and the human side together, but then our human side begins to yearn to see the real thing, the real performance behind the cloud. At the end, we see only the celebratory ending, a posthoc horay to the human attention process, in trying to see the story that don't exist in the machine, and in the story that isn't shown to the human. Often we catch the machine's perspective for a brief moment, and then release it to become human again.
 
 <p align="center">
-<img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-30.jpg">
+<img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-12.jpg">
 <img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-34.jpg">
 </p>
 
