@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [machine-learning, video, projection] # add tag
 ---
 <p align="center">
-Projection, mapped to wooden frame ~1.5x1.5m; 2021.<br><br>
+Projection, mapped with wooden frame ~1.5x1.5m; 2021.<br><br>
 "We are alone, with no excuses. That's the idea I shall try to convey when<br>
 I say that [we are] condemned to be free."<br>
 - Jean-Paul Sartre<br><br>

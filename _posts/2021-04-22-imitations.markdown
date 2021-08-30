@@ -18,7 +18,7 @@ by William Wordsworth<br><br>
 
 Imitations of Immortality are two sets of variations in deep structure of classic poems of diverse forms and themes, written by RAY LC and by GPT-2, a machine-learning text generation model. The human-written works draws inspiration from events in the author's own life, but written as variations on not only the meter and rhyme scheme and diction of each classic work, but deep variation on its semantics and purpose. What is the extent of machine capabilities in writing deep emotional and purposive variations as humans do? I trained GTP-2 on each of the 8 works, and fine-tuned each poem with my own variation to teach it to create variations by learning to variate.
 
-Imitations of Immortality is a book and also lives on the web. For more info, see our online exhibition: [LC (2020)][show], and the accompanying paper: [LC (2021)][pub].
+Imitations of Immortality is a book and also lives on the web. See our online exhibition: [LC (2020)][show], and the accompanying paper: [LC (2021)][pub].
 
 [show]: https://raylc.org/imitations/index.html
 [pub]: https://raylc.org/chairbots/RAYLC_ImitationsOfImmortality02.pdf
