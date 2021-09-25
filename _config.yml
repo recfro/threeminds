@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: I WAS OF THREE MINDS # add your name
 author-img: figs_threeminds09extended03.jpg # add your photo
-about-author: A <a href="https://vimeo.com/566114459">machine learning exhibition</a> by Studio for Narrative Spaces, curated by Zijing Song.
+about-author: A <a href="https://vimeo.com/610374816">machine learning exhibition</a> by Studio for Narrative Spaces, curated by Zijing Song.
 studio: RAY LC
 social-insta: studiofornarrativespaces # add your handle
 social-facebook: rayLCphoto # add your Facebook handle
@@ -32,7 +32,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 9
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
