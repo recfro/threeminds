@@ -21,7 +21,7 @@ Imitations of Immortality are two sets of variations in deep structure of classi
 Imitations of Immortality is a book and also lives on the web. See our online exhibition: [LC (2020)][show], and the accompanying paper: [LC (2021)][pub].
 
 [show]: https://raylc.org/imitations/index.html
-[pub]: https://raylc.org/chairbots/RAYLC_ImitationsOfImmortality02.pdf
+[pub]: https://raylc.org/chairbots/ImitationsOfImmortality_ARTECH2021_02.pdf
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/figs_Imitations02.jpg">
