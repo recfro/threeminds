@@ -1,0 +1,31 @@
+---
+layout: post
+title: INSPHERE
+date: 2021-04-22
+description: pen drawing, A1 size; 2021. # (optional)
+img: proj_sketch2-14.jpg # (optional)
+fig-caption: # (optional)
+tags: [machine-learning, literature]
+---
+<p align="center">
+pen drawing, A1 size; 2021.<br><br>
+"We don't see things as they are,<br>
+we see them as we are."<br>
+- Anais Nin<br><br>
+<img src="{{site.baseurl}}/assets/img/proj_sketch2-12.jpg">
+</p>
+
+Insphere is a drawing based on edge detection of 360 photos of Hong Kong scenes. Red dots mark the places seen by computer vision face detection algorithm OpenCV on the photo that contains a face. Some of these faces are faces in an artwork or on a TV, while some are genuine faces in the scene. Other faces that are far away for turned away from the viewer are not detected. Some 360 photos can be instantly identified as part of the Hong Kong landscape, such as the Star Ferry, Tai Kwun, and PolyU. Others are places hidden from most casual viewers, including a boat to Tap Mun or a seldom visited gallery in Sham Shui Po. The way machines see the edges of the photo signal what they know about the immersive scene. What they see is limited to the technology they see with, with faces being identified not of actual humans, but rather the concept of the human that the machine sees.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/proj_sketch2-11.jpg">
+<img src="{{site.baseurl}}/assets/img/proj_sketch2-13.jpg">
+</p>
+
+Insphere is a drawing generated using RAY LC's 360 photos of Hong Kong, with and without people's faces. It is part of the Sketch 2: Floating, Surfing, Working on... exhibition organized by Andio Lai: [Lai (2021)][show] at Floating Projects, Jockey Club Create Arts Centre, Hong Kong.
+
+[show]: http://floatingprojectscollective.net/art-notes/andio-lai-sketch-2/
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/RAY_Sketch2InsphereFlattenSmall.jpg">
+</p>
