@@ -17,7 +17,7 @@ What you hear cannot be undone, just as what you've done cannot be altered. Our 
 
 See our paper published at EAI ArtsIT Conference on interactivity and game creation, "SOUND OF(F): Contextual storytelling using machine learning representations of sound and music": [Erol, Zhang, Ozgunay & LC (2021)][pub].
 
-[pub]: https://raylc.org/chairbots/Sound%20Off_new%20version_05.pdf
+[pub]: https://link.springer.com/chapter/10.1007/978-3-030-95531-1_23
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/figs_SoundOff02.jpg">
