@@ -18,11 +18,9 @@ I say that [we are] condemned to be free."<br>
 
 For communities of folks of Hong Kong, home serves as a different space full of their individual stories. It can be a luxurious interior for social connection, or a crammed space for a quarantine, or a work place for both caretakers and work-from-homers. The diverse spectra of lives in Hong Kong can be experienced as their narratives in the place they spend the most time of their lives in, their homes. Home Alone is a narrative landscape of the interior spaces of Hong Kong, from crammed spaces of domestic workers to high rise mansions of urban yuppies. It evolves from the serene bedroom scene to the stuffy bathroom to the window-filled high rise to the compact guestroom for its domestic worker populace to eventually the abandoned houses of Yim Tin Tsai, where we find ourselves finally left alone only with their previous narratives in the form of broken bottles, ragged dolls, and ancestral photos. Finally, we are home alone in Hong Kong.
 
-Home Alone is a StyleGANS machine-learning-based traversal of latent spaces of the interiors of Hong Kong homes, with the objects and features of the room serving as narrative devices. Home Alone was exhibited as part of I'm Always Here at [Osage Gallery Hong Kong][show]. Home Alone was shown at the Art and Tech Exhibition at [The Ammerman Connecticut Biennial][ammerman].
+Home Alone is a StyleGANS machine-learning-based traversal of latent spaces of the interiors of Hong Kong homes, with the objects and features of the room serving as narrative devices. Home Alone was exhibited as part of I'm Always Here at [Osage Gallery Hong Kong][show]. Home Alone was shown at the Art and Tech Exhibition at [The Ammerman Connecticut Biennial](http://artsandtechsymposium.digital.conncoll.edu/participants/).
 
 [show]: {{site.baseurl}}/assets/img/ImAlwaysHere_Pamphlet_RAYLC_crop.pdf
-[ammerman]:
-http://artsandtechsymposium.digital.conncoll.edu/participants/
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-24.jpg">
