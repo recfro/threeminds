@@ -17,7 +17,7 @@ by Ludwig Wittgenstein<br><br>
 
 The way we imagine machines see us is imbued with our own biased perceptions and expectations, and nothing like the way machines actually see us. In this work, I use the medium of dance to show how machines can digest the dynamic forms of human bodies in different genres of music-driven movement. As we marvel at the patterns detected by computer vision, free of the human way of looking, we begin to understand how to see the world the way machines do. It isn't until the end of the dance when we can reunite with our comfortable human visions, but by then the dance is finished, and we wondered what the dancing experience really was like, if we didn't have to limit ourselves to the lens of the machine. Machine vision can only catch the fleeting forms of the human, and release them when they are no longer detected. They can see the dynamic patterns, but they can't see the reality behind the abstractions. Perhaps mere abstractions are enough?
 
-Catch and Release uses the Yolo algorithm to computationally detect human movements in four dance performances shown on four CRT TV's: Cuban Rueda, Swing, Bollywood, and Salsa. See our exhibition info: [LC (2021)][show].
+Catch and Release uses the Yolo algorithm to computationally detect human movements in four dance performances shown on four CRT TV's: Cuban Rueda, Swing, Bollywood, and Salsa. Catch and Release was exhibited at I Was of Three Minds at [JCCAC](https://recfro.github.io/threeminds/), and as part of I'm Always Here at [Osage Gallery Hong Kong][show]. Catch and Release was shown at EatonHK as part of [the Jumping Frames Expanded Space](https://jumpingframes.com/en/expanded-space/).
 
 [show]: {{site.baseurl}}/assets/img/ImAlwaysHere_Pamphlet_RAYLC_crop.pdf
 

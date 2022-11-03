@@ -42,7 +42,7 @@ The music follows a similar pattern to the visual dimension by transitioning bet
 <img src="{{site.baseurl}}/assets/img/proj_arselechk-15.jpg">
 </p>
 
-Down to the Holograph was presented at Osage Gallery, Hong Kong, as part of the Ars Electronica Artificial Intentionalities exhibition curated by Ann Mak and chaired by Maurice Benayoun [Mak (2021)][show]. Further online exhibition was developed for [Ars Electronica Hong Kong Garden][online].
+Down to the Holograph was presented at Osage Gallery, Hong Kong, as part of the Ars Electronica Artificial Intentionalities exhibition curated by Ann Mak and chaired by Maurice Benayoun [Mak (2021)][show]. Further online exhibition was developed for [Ars Electronica Hong Kong Garden][online]. Down to the Holograph was part of Unduplicated at [Videotage](https://unduplicated2022.wordpress.com/portfolio/down-to-the-holograph/).
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/proj_arselechk-12.jpg">

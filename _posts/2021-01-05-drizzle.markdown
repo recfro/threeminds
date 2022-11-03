@@ -15,7 +15,9 @@ Manga, 2 pieces (newspaper, A4 size, 12 pages; print, dimension variable); 2021.
 
 Misinformation and rhetoric in current public discourse make climate change denial a difficult viewpoint to argue against by policy and scientific arguments alone. The public is more persuaded by personal stories of influence rather than sound logic. Instead of traditional arguments, we created covert visual narratives that communicate the values espoused by climate action without framing it as an argument for climate action. Such implicit influences are designed for particular goals of climate action, such as individual responsibility, long-term vision, and collective conservation strategies, utilizing design fiction to narratively engage even antagonistic viewpoints like climate change denial. The comic tabloid Drizzle seeks to engage audiences visually with personal virtues that align with climate action without policy-based, overt arguments.
 
-For more info, see our paper "Designing for Narrative Influence: Speculative Storytelling for Social Good in Times of Public Health and Climate Crises" published in CHI'21: [LC, Mizuno (2021)][pub], and "DRIZZLE: a comic for covert climate action influence" at IASDR: [Song, Sun & LC (2021)][pub2].
+For more info, see our paper "Designing for Narrative Influence: Speculative Storytelling for Social Good in Times of Public Health and Climate Crises" published in CHI'21: [LC, Mizuno (2021)][pub], and "DRIZZLE: a comic for covert climate action influence" at IASDR: [Song, Sun & LC (2021)][pub2], and "Designing Narratives and data visuals in comic form for social influence in climate action" at Frontiers in Psychology: [LC et al (2022)](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.893181/full).
+
+DRIZZLE was exhibited in University of Graz Center for Climate Change, and at DAT/ACT: [Data Art for Climate Action Gallery](https://dat-act.scm.cityu.edu.hk/).
 
 [pub]: https://dl.acm.org/doi/10.1145/3411763.3450373
 [pub2]: https://raylc.org/chairbots/IASDR_DesignObject_2021_07Final.pdf

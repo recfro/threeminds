@@ -15,7 +15,7 @@ Installation, dimension variable; 2018; video projection, physical TVs, interact
 
 We are here to watch. We are going to. We live in a world inundated by technology, but even the newest technology comes about by evolution from previous forms. Just as the rain forest covered our world, providing a canopy for the development of species connected to each other in an environment, the television and screen-based interfaces today is the canopy for a network that connect humans together in a social network. Can the forest and the internet of things be part of the same evolutionary track? Where we are before is part of where we are now, which is the how we can begin to understand our future.
 
-FLORA is a video projection connected to physical TVs using an analog controller that narrates the evolution of digital technology as a process of mapping ourselves onto devices. See our exhibition info: [Crouse, LC (2018)][show].
+FLORA is a video projection connected to physical TVs using an analog controller that narrates the evolution of digital technology as a process of mapping ourselves onto devices. See our exhibition info: [Crouse, LC (2018)][show]. Flora was part of the New Media Art Exhibition at [CICA Museum](https://cicamuseum.com/wp-content/uploads/Catalog_The-6th-International-Exhibition-on-New-Media-Art-2020.pdf).
 
 [show]: https://recfreq.wordpress.com/portfolio/flora-network-intelligence/
 
