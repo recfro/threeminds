@@ -20,12 +20,9 @@ Insphere is a drawing based on edge detection of 360 photos of Hong Kong scenes.
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/proj_sketch2-11.jpg">
 <img src="{{site.baseurl}}/assets/img/proj_sketch2-13.jpg">
+<img src="{{site.baseurl}}/assets/img/RAY_Sketch2InsphereFlattenSmall.jpg">
 </p>
 
 Insphere is a drawing generated using RAY LC's 360 photos of Hong Kong, with and without people's faces. It is part of the Sketch 2: Floating, Surfing, Working on... exhibition organized by Andio Lai: [Sketch 2 JCCAC][show] at Floating Projects, Jockey Club Create Arts Centre, Hong Kong.
 
 [show]: http://floatingprojectscollective.net/art-notes/andio-lai-sketch-2/
-
-<p align="center">
-<img src="{{site.baseurl}}/assets/img/RAY_Sketch2InsphereFlattenSmall.jpg">
-</p>
