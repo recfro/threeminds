@@ -1,0 +1,35 @@
+---
+layout: post
+title: LIGHT UP
+date: 2022-01-20
+description: Video projection, 6x2m; 2022. # (optional)
+img: proj_lightup-16.jpg # (optional)
+fig-caption: # (optional)
+tags: [machine-learning, video, projection] # add tag
+---
+<p align="center">
+video projection, 6x2m; 2022.<br><br>
+"If you want to know how much darkness there is around you,<br>
+you must sharpen your eyes, peering at the faint lights in the distance.<br>
+<i>Invisible Cities</i> by Italo Calvino<br><br>
+<iframe width="591" height="377" src="https://www.youtube.com/embed/Qb_-z3vdjqo/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+The city we imagine together is our collective we. Light Up uses over 4000 photos of Hong Kong in the day and light time to generate a collective moment of the city going into darkness as lights come on, an unreal version of the city from the lens of machine learning. Programming by Zhiyuan Zhang.
+
+Light Up is a Machine-Learning generated experience using StyleGANS2 (visuals) and GanSynth (music). Light Up was exhibited at the immersive exhibition Light Up at [Goethe Institute, Hong Kong Arts Centre](https://www.goethe.de/ins/hon/en/ver.cfm?event_id=23590037) curated by Zoe Chan. It was shown at Mind(e)scape at [Soho House Hong Kong](https://www.instagram.com/tv/CfndrgSlYTA/?utm_source=ig_web_copy_link) curated by Linda Cheung.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/proj_lightup-15.jpg">
+<img src="{{site.baseurl}}/assets/img/proj_lightup-13.jpg">
+</p>
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/gifs_LightUp01.gif">
+</p>
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/proj_lightup-17.jpg">
+<img src="{{site.baseurl}}/assets/img/proj_lightup-18.jpg">
+<img src="{{site.baseurl}}/assets/img/proj_lightup-12.jpg">
+</p>
