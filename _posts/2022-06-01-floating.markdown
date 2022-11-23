@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EXHIBIT @ FLOATING PROJECTS Jockey Club Creative Arts Centre
-date: 2021-06-01
+date: 2022-06-01
 description: 22 May to 30 June 2021 # Add post description (optional)
 img: figs_Floating01.jpg # Add image post (optional)
 tags: [interactive, video] # add tag

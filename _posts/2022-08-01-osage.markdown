@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EXHIBIT @ OSAGE GALLERY
-date: 2021-08-01
+date: 2022-08-01
 description: 25 July to 22 August 2021 # Add post description (optional)
 img: proj_iwasalwaysthere-47.jpg # Add image post (optional)
 tags: [interactive, video, machine-learning] # add tag
