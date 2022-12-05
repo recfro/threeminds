@@ -17,7 +17,7 @@ you must sharpen your eyes, peering at the faint lights in the distance.<br>
 
 The city we imagine together is our collective we. When we wake, the city comes alive, and when we work, the city is illuminated by signs of activity. How do we see ourselves in this collective striving admist a city in flux? Light Up uses over 4000 photos of Hong Kong in the day and night time to generate a collective moment of the city going into darkness as lights come on, an unreal version of the city from the lens of machine learning. As we look closely from a collective perspective afforded by machine learning, we realize that the ebb and flow of a city is the ups and down of us, as we move, strive, and become enlightened. Programming by Zhiyuan Zhang.
 
-Light Up is a Machine-Learning generated interpolated experience using StyleGANS2 (visuals) and GanSynth (music). Light Up was exhibited at the immersive exhibition Light Up at [Goethe Institute, Hong Kong Arts Centre](https://www.goethe.de/ins/hon/en/ver.cfm?event_id=23590037) curated by Zoe Chan. It was shown at Mind(e)scape at [Soho House Hong Kong](https://www.instagram.com/tv/CfndrgSlYTA/?utm_source=ig_web_copy_link) curated by Linda Cheung.
+Light Up is a Machine-Learning generated interpolated experience using StyleGANS2 (visuals) and GanSynth (music). Light Up was exhibited at the immersive exhibition Light Up at [Goethe Institute, Hong Kong Arts Centre](https://www.goethe.de/ins/hon/en/ver.cfm?event_id=23590037) curated by Zoe Chan. It was shown at Mind(e)scape at [Soho House Hong Kong](https://www.instagram.com/tv/CfndrgSlYTA/?utm_source=ig_web_copy_link) curated by Linda Cheung. Light Up was projection mapped onto a 3D cityscape of Hong Kong in [M3: Beyond Territories](https://m3beyond.hk/exhibitor/picture-rhythm-studios/), an exhibition for the HK Institute of Architects shown in Hangzhou, Beijing, New York, and Hong Kong.
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/proj_lightup-15.jpg">
@@ -32,6 +32,13 @@ Light Up has been shown in multiple forms reflecting its diverse perspectives. F
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/proj_lightup-17.jpg">
-<img src="{{site.baseurl}}/assets/img/proj_lightup-18.jpg">
 <img src="{{site.baseurl}}/assets/img/proj_lightup-12.jpg">
+</p>
+
+For M3, shown internationally at Beijing, Hangzhou, New York, and Hong Kong, Light Up was immersively shown as projection mapped onto a 3D constructed landscape by Paul Shepherd and LCM Leung. The 3D construction in various forms include a large scale structure, an AR experience, and a smaller scale detailed model with land-mark signs of Hong Kong. These alternative visions of Light Up capture the evolving nature of the lighting up process as the Hong Kong architectural environment comes to life in each of these other exhibition locations.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/proj_lightup-18.jpg">
+<img src="{{site.baseurl}}/assets/img/figs_webimg03.jpg">
+<img src="{{site.baseurl}}/assets/img/figs_webimg05.jpg">
 </p>
