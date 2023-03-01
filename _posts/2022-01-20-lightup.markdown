@@ -17,7 +17,7 @@ you must sharpen your eyes, peering at the faint lights in the distance.<br>
 
 The city we imagine together is our collective we. When we wake, the city comes alive, and when we work, the city is illuminated by signs of activity. How do we see ourselves in this collective striving admist a city in flux? Light Up uses over 4000 photos of Hong Kong in the day and night time to generate a collective moment of the city going into darkness as lights come on, an unreal version of the city from the lens of machine learning. As we look closely from a collective perspective afforded by machine learning, we realize that the ebb and flow of a city is the ups and down of us, as we move, strive, and become enlightened. Programming by Zhiyuan Zhang.
 
-Light Up is a Machine-Learning generated interpolated experience using StyleGANS2 (visuals) and GanSynth (music). Light Up was exhibited at the immersive exhibition Light Up at [Goethe Institute, Hong Kong Arts Centre](https://www.goethe.de/ins/hon/en/ver.cfm?event_id=23590037) curated by Zoe Chan. It was shown at Mind(e)scape at [Soho House Hong Kong](https://www.instagram.com/tv/CfndrgSlYTA/?utm_source=ig_web_copy_link) curated by Linda Cheung. Light Up was projection mapped onto a 3D cityscape of Hong Kong in [M3: Beyond Territories](https://m3beyond.hk/exhibitor/picture-rhythm-studios/), an exhibition for the HK Institute of Architects shown in Hangzhou, Beijing, New York, and Hong Kong.
+Light Up is a Machine-Learning generated interpolated experience using StyleGANS2 (visuals) and GanSynth (music). Light Up was exhibited at the immersive exhibition Light Up at [Goethe Institute, Hong Kong Arts Centre](https://www.goethe.de/ins/hon/en/ver.cfm?event_id=23590037) curated by Zoe Chan. It was shown at Mind(e)scape at [Soho House Hong Kong](https://www.instagram.com/tv/CfndrgSlYTA/?utm_source=ig_web_copy_link) curated by Linda Cheung. Light Up was projection mapped onto a 3D cityscape of Hong Kong in [M3: Beyond Territories](https://m3beyond.hk/exhibitor/picture-rhythm-studios/), an exhibition for the HK Institute of Architects shown in Hangzhou, Beijing, New York, and Hong Kong. An extended version of Light Up was shown at [Art.Growth, 16th Hangzhou Culture and Creative Expo] (http://www.hzwbh.com/audience) as City Lights.
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/proj_lightup-15.jpg">
@@ -41,4 +41,12 @@ For M3, shown internationally at Beijing, Hangzhou, New York, and Hong Kong, Lig
 <img src="{{site.baseurl}}/assets/img/proj_lightup-18.jpg">
 <img src="{{site.baseurl}}/assets/img/figs_webimg03.jpg">
 <img src="{{site.baseurl}}/assets/img/figs_webimg05.jpg">
+</p>
+
+For the Hangzhou Culture and Creative Expo, the work was embedded at the center of an exhibition themed around the growth of the arts within cities. The 3 panels are intentionally unbalanced, with the center work up on a different height showing the floating connector between the left (daytime) and the right (nighttime) in synchrony. The fusion of two sides of a city is the real growth.
+
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/lightup_hangzhou-07.JPG">
+<img src="{{site.baseurl}}/assets/img/lightup_hangzhou-10.JPG">
+<img src="{{site.baseurl}}/assets/img/lightup_hangzhou-09.JPG">
 </p>
