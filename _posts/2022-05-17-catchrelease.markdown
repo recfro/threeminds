@@ -39,4 +39,7 @@ The four videos are each timed exactly 2:10. They each begin only with the compu
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/proj_iwasalwaysthere-32.jpg">
+<img src="{{site.baseurl}}/assets/img/figs_eaton04.jpg">
 </p>
+
+For the Jumping Frames exhibit at Eaton's Tomorrow Maybe Gallery, RAY LC and Kenneth Hui Ka Chun worked together to create a performance whereby Kenneth reacts to the moving forms in physical space as the virtual movements populate both the CRTs and the projected reality in the exhibition space. For this exhibition-performance, each of the dance videos are spread apart in different parts of the gallery, including four stacked on top of each other on the back side, two next to each other in the main gallery space, and one projected onto the performance space where Kenneth danced, allowing audiences to see the movements everywhere as part of a continuous whole, evoking the aspirations of the field of [Dance Fusion](https://recfro.github.io/dance-fusion/). During the performance, Kenneth reacted to the different dance forms around him using rhythms of one musical form followed by another, sometimes bringing polyrhythms into his repertoire, all without music, bringing to life the human vision of the machine vision interpretation, forming a loop of human-machine-human perceptions that illustrate our increasingly intricate, layered, and feedback-based interaction with computer vision.
