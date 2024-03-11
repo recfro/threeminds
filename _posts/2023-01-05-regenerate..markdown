@@ -8,9 +8,10 @@ tags: [machine-learning, video] # add tag
 ---
 <p align="center">
 Video, dimension variable; 2023; LCD and projection.<br><br>
-"."<br>
-- Tractatus Logico-Philosophicus<br>
-by Ludwig Wittgenstein<br><br>
+"Throw your dreams into space like a kite,<br>
+and you do not know what it will bring back,<br>
+a new life, a new friend, a new love, or a new country.<br>
+by Anais Nin<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBuMlcZ5c5k?si=ooY_C3bEpfxV43Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <img src="{{site.baseurl}}/assets/img/venice_humanposthuman-37.jpg">
 </p>
