@@ -18,7 +18,7 @@ by Anais Nin<br><br>
 
 It is so hard for us to feel the consequences of Climate Change because what happens to us under its influence is intangibly in the future, and changes are too slow to affect our everyday perception biased to feel phasic threat. To show Climate Change, then, we must fast forward the time, and let our own interactions drive its clock. Only then can we see both the promised destruction close to us and also the possibility of our own actions leading to recovery, not only the sense of doom but also what we can do to alter the future. It is with this new vision that we can see clearly the fourth dimension collapsed as a process of renewal, and to see our role not in the immediacy of now, but the promise of a future.
 
-RE:GENERATE attempts to alter our perception of climate change by exploring speculative narratives of the future in the form of machine-learning-created visualizations of an urban landscape under threat. The imaginary timeline moves backward-forward to show our resilience despite destruction. Adaptation is indeed possible, if we engage with a speculative understanding of potential outcomes. 
+RE:GENERATE attempts to alter our perception of climate change by exploring speculative narratives of the future in the form of machine-learning-created visualizations of urban and natural landscapes under threat. The imaginary timelines moves backward-forward to show our resilience despite destruction. Adaptation is indeed possible, if we engage with a speculative understanding of potential outcomes. 
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/RAYLC_ReGenerate_01.jpg">
@@ -26,13 +26,15 @@ RE:GENERATE attempts to alter our perception of climate change by exploring spec
 <img src="{{site.baseurl}}/assets/img/RAYLC_ReGenerateNature_04.jpg">
 </p>
 
-RE:GENERATE was inspired by cityscapes of Hong Kong during times of flooding. Hundreds of thousands of inhabitants were rushed out of their homes and the flooded subway system. The images were so surreal they became almost imaginary. Yet, we recovered, we adapted. In response, to create the art work, Control Net and Stable Diffusion Deforum in automatic1111 were used to prompt the model to generate a surreal video of destruction and recovery in a speculative future of frequent climate change. We constrain us algorithmically to a generative principle of nonrepetitive variation based on the imaginary landscape specified in the first frame that is allowed to vary throughout the video without changing the foundations of the structures found within. A timer is added to the final video to remind us that the clock is ticking. The video loops forward and backward in time, showing us that the algorithmically generated vision is ours to control. It’s up to us to frame the story, to adapt to the technology.
+RE:GENERATE was inspired by cityscapes of Hong Kong during times of flooding. Hundreds of thousands of inhabitants were rushed out of their homes and the flooded subway system. The images were so surreal they became almost imaginary. Yet, we recovered, we adapted. In response, to create the videos, Control Net and Stable Diffusion Deforum in automatic1111 were used to prompt the model to generate a surreal video of destruction and recovery in a speculative future of frequent climate change. We constrain us algorithmically to a generative principle of nonrepetitive variation based on the imaginary landscape specified in the first frame that is allowed to vary throughout the video without changing the foundations of the structures found within. A timer is added to the final video to remind us that the clock is ticking. The videos loop forward and backward in time, showing us that the algorithmically generated visions are ours to control. It’s up to us to frame the story, to adapt to the technology.
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/venice_humanposthuman-87.jpg">
 <img src="{{site.baseurl}}/assets/img/venice_humanposthuman-26.jpg">
 <img src="{{site.baseurl}}/assets/img/venice_humanposthuman-52.jpg">
 </p>
+
+The work is composed of two videos, one of an urban landscape destroyed by climate change and reconstituted post-recovery, and one of nature impinged by waste and development before readapting back to nature. The two views are complementary views of a planet beset of climate change and sustainability crises, viewed in the form of a nonlinear timeline that urges us to see beyond the dimension currently closest to us, but to beyond a future of a re-generated reality.
 
 Premiered in Venice with La Storta Scala Mata in parallel with the Venice Biennale, 20 May 2023. Subsequently shown at ACM Creativity and Cognition online 2023 and in-person 2024. Also accepted for showcase in ISEA 2024.
 
