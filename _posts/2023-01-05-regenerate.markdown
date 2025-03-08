@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RE:GENERATE
-date: 2023-06-05
+date: 2023-01-05
 description: Video, dimension variable; 2023; LCD and projection. # Add post description (optional)
 img: RAYLC_ReGenerate_04.jpg # Add image post (optional)
 tags: [machine-learning, video] # add tag
@@ -36,7 +36,7 @@ RE:GENERATE was inspired by cityscapes of Hong Kong during times of flooding. Hu
 
 The work is composed of two videos, one of an urban landscape destroyed by climate change and reconstituted post-recovery, and one of nature impinged by waste and development before readapting back to nature. The two views are complementary views of a planet beset of climate change and sustainability crises, viewed in the form of a nonlinear timeline that urges us to see beyond the dimension currently closest to us, but to beyond a future of a re-generated reality.
 
-Premiered in Venice with La Storta Scala Mata in parallel with the Venice Biennale, 20 May 2023. Subsequently shown at ACM Creativity and Cognition online 2023 and in-person 2024. Also accepted for showcase in ISEA 2024.
+Premiered in Venice with [La Storta Scala Mata](https://www.veneziacontemporanea.com/artists-in-residence/) in parallel with the Venice Biennale, 20 May 2023. Subsequently shown at ACM Creativity and Cognition [online 2023](https://dl.acm.org/doi/10.1145/3591196.3593341) and [in-person 2024](https://youtu.be/Rz5ZCK4uAMU) (Chicago, USA). RE:GENERATE is featured in the 2024 alt.CHI paper on [Travelling Arts x HCI Sketchbook](https://dl.acm.org/doi/10.1145/3613905.3644069) (Hawaii, USA). Also shown as showcase at [The 29th International Symposium on Electronic Art 2024](https://airdrive.eventsair.com/eventsairseasiaprod/production-expertevents-public/26750c0e9c224de999348289c80fdc30) (Brisbane, Australia and [Styly](https://gallery.styly.cc/scene/b9194fe7-5b8c-4235-9001-2fa380c7eb01)). RE:GENERATE is part of [CVPR 2024 AI Art Gallery](https://thecvf-art.com/project/ray-lc/).
 
 <p align="center">
 <img src="{{site.baseurl}}/assets/img/artgallery75.jpg">
