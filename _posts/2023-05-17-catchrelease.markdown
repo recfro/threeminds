@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CATCH AND RELEASE
-date: 2022-05-17
+date: 2023-05-17
 description: Video, dimension variable; 2022; physical TVs. # Add post description (optional)
 img: figs_CatchRelease01.jpg # Add image post (optional)
 tags: [machine-learning, video] # add tag
