@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RE:GENERATE
-date: 2023-01-05
+date: 2023-06-05
 description: Video, dimension variable; 2023; LCD and projection. # Add post description (optional)
 img: RAYLC_ReGenerate_04.jpg # Add image post (optional)
 tags: [machine-learning, video] # add tag
