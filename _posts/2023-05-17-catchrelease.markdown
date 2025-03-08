@@ -2,12 +2,12 @@
 layout: post
 title: CATCH AND RELEASE
 date: 2023-05-17
-description: Video, dimension variable; 2022; physical TVs. # Add post description (optional)
+description: Video, dimension variable; 2023; physical TVs. # Add post description (optional)
 img: figs_CatchRelease01.jpg # Add image post (optional)
 tags: [machine-learning, video] # add tag
 ---
 <p align="center">
-Video, dimension variable; 2022; 4x CRT TVs.<br><br>
+Video, dimension variable; 2023; 4x CRT TVs.<br><br>
 "The limits of my language means the limits of my world."<br>
 - Tractatus Logico-Philosophicus<br>
 by Ludwig Wittgenstein<br><br>
